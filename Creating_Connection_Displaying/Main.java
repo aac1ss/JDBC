@@ -1,4 +1,4 @@
-package JDBC.Try_1;
+package JDBC.Creating_Connection_Displaying;
 import java.sql.*;
 
 public class Main {
