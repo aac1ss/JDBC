@@ -8,6 +8,7 @@ public class try2 {
         String user = "root";
         String password = "ashish";
         String driver = "com.mysql.cj.jdbc.Driver";
+
         String withdrawQuery = "UPDATE accounts SET balance = balance - ? WHERE account_number = ?";
         String depositQuery = "UPDATE accounts SET balance = balance + ? WHERE account_number = ?";
 
