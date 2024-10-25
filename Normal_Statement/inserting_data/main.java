@@ -1,4 +1,4 @@
-package JDBC.inserting_data;
+package JDBC.Normal_Statement.inserting_data;
 import java.sql.*;
 
 public class main {
